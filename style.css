@@ -90,6 +90,16 @@ h3 {
 	background-color: rgb(208, 243, 221);
 }
 
+.leiras {
+	text-align: left;
+	border: 2px solid rgb(208, 243, 221);
+	width: 50%;
+	position: relative;
+	padding: 10px;
+}
+
+
+
 img {
 	width: 100%;
 	padding: 30px auto;
